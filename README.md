@@ -8,6 +8,7 @@ Bookmark Creation: Click the plus button when a YouTube video is loaded to creat
 Bookmark Options:
 
 Play Button: Play the video from the saved bookmarked point.
+
 Delete Button: Remove the bookmark from the list.
 
 # Usage
